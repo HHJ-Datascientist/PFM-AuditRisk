@@ -1,0 +1,4 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
+Logistic Regression with Pasting NM PCA,Logistic Regression with Pasting NM PCA,"{'C': 0.001, 'penalty': 'l2'}",0.8141592920353983,0.7346938775510204,0.5,0.6666666666666666,0.75
+Decision Tree Classifier with Pasting NM PCA,Decision Tree Classifier with Pasting NM PCA,"{'criterion': 'gini', 'max_depth': 2}",0.9734513274336283,0.9591836734693877,0.9230769230769231,0.9600000000000001,0.9615384615384616
+Random Forest with Pasting NM PCA,Random Forest with Pasting NM PCA,"{'criterion': 'gini', 'max_depth': 3, 'n_estimators': 100}",0.9734513274336283,0.9795918367346939,0.9615384615384616,0.9803921568627451,0.9807692307692308

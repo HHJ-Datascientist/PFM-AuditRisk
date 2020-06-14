@@ -1,0 +1,3 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
+Hard Voting Classifier,Hard Voting Classifier,,1.0,0.9795918367346939,0.9615384615384616,0.9803921568627451,0.9807692307692308
+Soft Voting Classifier,Soft Voting Classifier,,1.0,0.9591836734693877,0.9615384615384616,0.9615384615384616,0.9590301003344482

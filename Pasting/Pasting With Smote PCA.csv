@@ -1,0 +1,4 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
+Logistic Regression with Pasting Smote PCA,Logistic Regression with Pasting Smote PCA,"{'C': 0.001, 'penalty': 'l2'}",0.6341407938132605,0.6187317590872911,0.36628511966701355,0.49490333919156426,0.6238572322753043
+Decision Tree Classifier with Pasting Smote PCA,Decision Tree Classifier with Pasting Smote PCA,"{'criterion': 'gini', 'max_depth': 13}",0.962128966223132,0.8906871849296896,0.9136316337148803,0.8950050968399592,0.8902213393263085
+Random Forest with Pasting Smote PCA,Random Forest with Pasting Smote PCA,"{'criterion': 'entropy', 'max_depth': 15, 'n_estimators': 250}",0.9623564198794495,0.8896258954629875,0.9136316337148803,0.8940936863543789,0.8891385022932821

@@ -1,0 +1,3 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
+Hard Voting Classifier With Smote PCA,Hard Voting Classifier With Smote PCA,,1.0,0.9036879808967896,0.9099895941727367,0.905982905982906,0.9035600380176082
+Soft Voting Classifier With Smote PCA,Soft Voting Classifier With Smote PCA,,1.0,0.8949323427964977,0.913111342351717,0.8986175115207373,0.8945632510350896

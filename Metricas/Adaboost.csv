@@ -1,0 +1,13 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
+Adaboost-LR-Smote-PCA,Logistic Regression with Adaboost Smote and PCA,{},0.6410781303309451,0.6240382064208013,0.3975026014568158,0.5188455008488965,0.6286376028399401
+Adaboost-DT-Smote-PCA,Decision Tree Classifier with Adaboost Smote and PCA,{},1.0,0.9246484478641549,0.9479708636836629,0.9276985743380854,0.9241749283226112
+Adaboost-RF-Smote-PCA,Random Forest Classifier with Adaboost Smote and PCA,{},0.9987490048902536,0.9177500663305916,0.9438085327783559,0.9212798374809548,0.9172209962213381
+Adaboost-LR.NM,Logistic Regression with Adaboost NearMiss,{},0.8761061946902655,0.8979591836734694,0.8846153846153846,0.9019607843137256,0.8988294314381271
+Adaboost-DT-NM,Decision Tree Classifier with Adaboost NearMiss,{},1.0,1.0,1.0,1.0,1.0
+Adaboost-RF-NM,Random Forest Classifier with Adaboost NearMiss,{},1.0,1.0,1.0,1.0,1.0
+Adaboost-RF-NM-PCA,Random Forest Classifier with Adaboost NearMiss PCA,{},0.9734513274336283,0.9795918367346939,0.9615384615384616,0.9803921568627451,0.9807692307692308
+Adaboost-LR-NM-PCA,Logistic Regression with Adaboost NearMiss PCA,{},0.8849557522123894,0.9183673469387755,0.8461538461538461,0.9166666666666666,0.9230769230769231
+Adaboost-DT-NM-PCA,Decision Tree Classifier with Adaboost NearMiss PCA,{},1.0,0.9387755102040817,0.9230769230769231,0.9411764705882353,0.939799331103679
+Adaboost-LR-SM,Logistic Regression with Adaboost with Smote,{},0.798248606846355,0.7954364552931812,0.7877211238293444,0.7970518557515136,0.7955931011675148
+Adaboost-DT-SM,Decision Tree Classifier with Adaboost with Smote,{},1.0,1.0,1.0,1.0,1.0
+Adaboost-RF-SM,Random Forest Classifier with Adaboost with Smote,{},1.0,1.0,1.0,1.0,1.0

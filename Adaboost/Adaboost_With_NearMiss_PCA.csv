@@ -1,0 +1,4 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
+Random Forest Classifier with Adaboost NearMiss PCA,Random Forest Classifier with Adaboost NearMiss PCA,"{'criterion': 'entropy', 'max_depth': 3, 'n_estimators': 100}",0.9734513274336283,0.9795918367346939,0.9615384615384616,0.9803921568627451,0.9807692307692308
+Logistic Regression with Adaboost NearMiss PCA,Logistic Regression with Adaboost NearMiss PCA,"{'C': 0.01, 'penalty': 'l2'}",0.8849557522123894,0.9183673469387755,0.8461538461538461,0.9166666666666666,0.9230769230769231
+Decision Tree Classifier with Adaboost NearMiss PCA,Decision Tree Classifier with Adaboost NearMiss PCA,{},1.0,0.9387755102040817,0.9230769230769231,0.9411764705882353,0.939799331103679
