@@ -21,3 +21,8 @@ Composición del proyecto:
 6. Métricas: Csv de las métricas de todos los algoritmos y técnicas utilizadas y un notebook con una comparación de los resultados.
 
 Cada carpeta contiene todo lo necesario para la ejecución de los notebook. cabe recordar que se deben tener instalados, de forma previa, todas las librerías necesarias para el correcto funcionamiento en Jupyter Notebook.
+
+Programas necesarios para la ejecuccion de los notebooks: 
+-	Anaconda: (https://www.anaconda.com/products/individual)
+-	En Anaconda, se instala por defecto Jupyter Notebook.
+-	Instalación de las librerías Python necesarias. Se puede hacer desde Anaconda prompt o en el propio Notebook utilizando el siguiente comando: pip install <El nombre de la librería o la función>
