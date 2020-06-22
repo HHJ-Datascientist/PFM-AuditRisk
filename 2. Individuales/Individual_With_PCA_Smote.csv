@@ -1,0 +1,4 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
+Logistic Regression with PCA (Smote),Logistic Regression with PCA (Smote),"{'C': 0.001, 'penalty': 'l2'}",0.633913340156943,0.6187317590872911,0.36628511966701355,0.49490333919156426,0.6238572322753043
+Decision Tree Classifier with PCA (Smote),Decision Tree Classifier with PCA (Smote),"{'criterion': 'entropy', 'max_depth': 13}",0.9463209371090641,0.8750331652958344,0.9198751300728408,0.882455702520589,0.8741227301690678
+Random Forest Classifier with PCA (Smote),Random Forest Classifier with PCA (Smote),"{'criterion': 'gini', 'max_depth': 15, 'n_estimators': 250}",0.9869214147617423,0.913239586097108,0.9417273673257024,0.9171522675449709,0.9126611931376754

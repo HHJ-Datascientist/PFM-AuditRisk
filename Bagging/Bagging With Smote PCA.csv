@@ -1,4 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Logistic Regression with Bagging Smote PCA,Logistic Regression with Bagging Smote PCA,"{'C': 0.001, 'penalty': 'l2'}",0.6342545206414193,0.6187317590872911,0.36576482830385015,0.4945480126626802,0.6238677958519793
-Decision Tree with Bagging Smote PCA,Decision Tree with Bagging Smote PCA,"{'criterion': 'gini', 'max_depth': 14}",0.9782781758216763,0.9127089413637569,0.9427679500520292,0.9167720718441691,0.9120986474678121
-Random Forest Classifier with Bagging Smote PCA,Random Forest Classifier with Bagging Smote PCA,"{'criterion': 'gini', 'max_depth': 15, 'n_estimators': 250}",0.9706584783350393,0.9068718492968957,0.9339229968782519,0.9109363105810708,0.9063226245896403

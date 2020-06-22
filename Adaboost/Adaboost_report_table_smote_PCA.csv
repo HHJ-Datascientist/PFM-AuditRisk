@@ -1,4 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Logistic Regression with Adaboost Smote and PCA,Logistic Regression with Adaboost Smote and PCA,"{'algorithm': 'SAMME', 'learning_rate': 0.1, 'n_estimators': 90}",0.6410781303309451,0.6240382064208013,0.3975026014568158,0.5188455008488965,0.6286376028399401
-Decision Tree Classifier with Adaboost Smote and PCA,Decision Tree Classifier with Adaboost Smote and PCA,{},1.0,0.9246484478641549,0.9479708636836629,0.9276985743380854,0.9241749283226112
-Random Forest Classifier with Adaboost Smote and PCA,Random Forest Classifier with Adaboost Smote and PCA,{},0.9987490048902536,0.9177500663305916,0.9438085327783559,0.9212798374809548,0.9172209962213381

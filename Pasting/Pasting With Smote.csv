@@ -1,4 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Logistic Regression with Pasting Smote,Logistic Regression with Pasting Smote,"{'C': 1000.0, 'penalty': 'l2'}",0.7698168998066643,0.7675776067922526,0.6966701352757544,0.7535171637591446,0.7690172549686838
-Decision Tree Classifier with Pasting Smote,Decision Tree Classifier with Pasting Smote,"{'criterion': 'gini', 'max_depth': 2}",1.0,1.0,1.0,1.0,1.0
-Random Forest with Pasting Smote,Random Forest with Pasting Smote,"{'criterion': 'gini', 'max_depth': 7, 'n_estimators': 100}",1.0,1.0,1.0,1.0,1.0

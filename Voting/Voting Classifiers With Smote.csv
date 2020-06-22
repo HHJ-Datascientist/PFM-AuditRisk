@@ -1,3 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Hard Voting Classifier,Hard Voting Classifier,,1.0,1.0,1.0,1.0,1.0
-Soft Voting Classifier,Soft Voting Classifier,,1.0,1.0,1.0,1.0,1.0

@@ -1,4 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Logistic Regression Classifier with Imblearn SMOTE,Logistic Regression Classifier with Imblearn SMOTE,"{'C': 1000.0, 'penalty': 'l2'}",0.6991925395200728,0.6802865481560095,0.4672216441207076,0.5984671776074642,0.6846124463159033
-Decision Tree Classifier with Imblearn SMOTE,Decision Tree Classifier with Imblearn SMOTE,"{'criterion': 'gini', 'max_depth': 2}",1.0,1.0,1.0,1.0,1.0
-Random Forest Classifier with Imblearn SMOTE,Random Forest Classifier with Imblearn SMOTE,"{'criterion': 'gini', 'max_depth': 5, 'n_estimators': 500}",1.0,1.0,1.0,1.0,1.0

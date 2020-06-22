@@ -1,4 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Logistic Regression with Adaboost with Smote,Logistic Regression with Adaboost with Smote,"{'C': 1000.0, 'penalty': 'l2'}",0.798248606846355,0.7954364552931812,0.7877211238293444,0.7970518557515136,0.7955931011675148
-Decision Tree Classifier with Adaboost with Smote,Decision Tree Classifier with Adaboost with Smote,{},1.0,1.0,1.0,1.0,1.0
-Random Forest Classifier with Adaboost with Smote,Random Forest Classifier with Adaboost with Smote,{},1.0,1.0,1.0,1.0,1.0

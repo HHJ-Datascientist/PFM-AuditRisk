@@ -1,0 +1,5 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
+Neural Network-NM-PCA, Neural Network Model With NearMiss PCA,,,,0.46938775510204084,0.0,0.5
+Neural Network-NM, Neural Network Model With NearMiss ,,,,0.9183673469387755,0.9166666666666666,0.9230769230769231
+Neural Network-SM-PCA, Neural Network With Smote PCA,,,,0.49005041124966836,0.0,0.5
+Neural Network-SM, Neural Network With Smote,,,,0.962058901565402,0.9616519174041298,0.9626512774603696

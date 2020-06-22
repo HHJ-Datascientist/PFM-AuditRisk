@@ -1,4 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Logistic Regression with Bagging Smote,Logistic Regression with Bagging Smote,"{'C': 1000.0, 'penalty': 'l2'}",0.8020015921755942,0.7994162907933139,0.7679500520291364,0.7961165048543689,0.8000551559550122
-Decision Tree with Bagging Smote,Decision Tree with Bagging Smote,"{'criterion': 'gini', 'max_depth': 2}",1.0,1.0,1.0,1.0,1.0
-Random Forest Classifier with Bagging Smote,Random Forest Classifier with Bagging Smote,"{'criterion': 'gini', 'max_depth': 5, 'n_estimators': 500}",0.9998862731718412,0.9994693552666489,0.9989594172736732,0.9994794377928162,0.9994797086368366

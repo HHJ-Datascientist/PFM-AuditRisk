@@ -1,4 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Logistic Regression with Bagging NearMiss PCA,Logistic Regression with Bagging NearMiss PCA,"{'max_samples': 0.9, 'n_estimators': 100}",0.7610619469026548,0.6326530612244898,0.3076923076923077,0.47058823529411764,0.6538461538461539
-Decision Tree with Bagging NearMiss PCA,Decision Tree with Bagging NearMiss PCA,{},0.9823008849557522,0.9591836734693877,0.9230769230769231,0.9600000000000001,0.9615384615384616
-Random Forest Classifier with Bagging NearMiss PCA,Random Forest Classifier with Bagging NearMiss PCA,"{'criterion': 'gini', 'max_depth': 5, 'n_estimators': 100}",0.9734513274336283,0.9795918367346939,0.9615384615384616,0.9803921568627451,0.9807692307692308

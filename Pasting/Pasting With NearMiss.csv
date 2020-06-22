@@ -1,4 +1,0 @@
-Model Name,Model Name,Model Parameter,Training Score,Testing Score,Exhaustividad,F1,AUC
-Logistic Regression with Pasting NM,Logistic Regression with Pasting NM,"{'C': 1000.0, 'penalty': 'l2'}",0.8495575221238938,0.7755102040816326,0.6153846153846154,0.744186046511628,0.7859531772575251
-Decision Tree Classifier with Pasting NM,Decision Tree Classifier with Pasting NM,"{'criterion': 'entropy', 'max_depth': 6}",1.0,1.0,1.0,1.0,1.0
-Random Forest with Pasting NM,Random Forest with Pasting NM,"{'criterion': 'gini', 'max_depth': 5, 'n_estimators': 100}",1.0,1.0,1.0,1.0,1.0
