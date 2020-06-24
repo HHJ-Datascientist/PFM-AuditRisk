@@ -11,10 +11,10 @@ Composición del proyecto:
 
 3. Ensemble: las implantaciones de métodos de conjunto. También se adjuntan los resultados de las distintas métricas aplicadas.
 
-- 3.1 Adaboost: Los notebooks y los csv de las métricas para Adaboost.
-- 3.2 Pasting: Los notebooks y los csv de las métricas para Pasting.
-- 3.3 Bagging: Los notebooks y los csv de las métricas para Bagging.
-- 3.4 Voting: Los notebooks y los csv de las métricas para Voting.
+      - 3.1 Adaboost: Los notebooks y los csv de las métricas para Adaboost.
+      - 3.2 Pasting: Los notebooks y los csv de las métricas para Pasting.
+      - 3.3 Bagging: Los notebooks y los csv de las métricas para Bagging.
+      - 3.4 Voting: Los notebooks y los csv de las métricas para Voting.
 
 5. RNA: las implantaciones de Redes neuronales artificiales y sus métricas correspondientes. 
 
